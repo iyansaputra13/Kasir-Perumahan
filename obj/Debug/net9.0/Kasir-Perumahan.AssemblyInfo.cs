@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kasir-Perumahan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+380097f6e15759a94029e574a15d9de8ea94a4bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd5158cef38e7affc42d42cd6f8593627a40c345")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kasir-Perumahan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kasir-Perumahan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
