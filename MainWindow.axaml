@@ -6,5 +6,19 @@
         x:Class="Kasir_Perumahan.MainWindow"
         Title="Kasir_Perumahan"
         Background="LightBlue">
-    haloooo geisss
+
+    <StackPanel>
+        <Border Background="DarkBlue" Padding="20">
+            <TextBlock Text="Kasir Perumahan"
+                       Foreground="White"
+                       FontSize="28"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"/>
+        </Border>
+
+        <TextBlock Text="haloooo geisss"
+                   Margin="20"
+                   FontSize="18"/>
+    </StackPanel>
+
 </Window>
